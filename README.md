@@ -46,9 +46,10 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
 </p>
 
 ## Progresso Site :arrow_up:
-- [ ] Home Page
-- [ ] Pricing Page
+- [x] Home Page
+- [x] Pricing Cards
 - [ ] About Page
+- [ ] Services Page
 
 ## Progresso App :arrow_up:
 - [ ] Home Screen
