@@ -7509,6 +7509,12 @@ textarea.form-control-lg {
   background-color: var(--bs-dark);
 }
 
+.py-5-services {
+  padding-top: 6rem !important;
+  padding-bottom: 6rem !important;
+  background-color: var(--bs-dark);
+}
+
 .pt-0 {
   padding-top: 0 !important;
 }
