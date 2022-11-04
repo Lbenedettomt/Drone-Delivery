@@ -8,7 +8,6 @@
 **:small_blue_diamond: [Global Solution :bookmark_tabs:](#global-solution-bookmark_tabs)**  
 **:small_blue_diamond: [Sobre :book:](#sobre-book)**  
 **:small_blue_diamond: [Progresso Site :arrow_up:](#progresso-site-arrow_up)**  
-**:small_blue_diamond: [Progresso App :arrow_up:](#progresso-app-arrow_up)**  
 **:small_blue_diamond: [Integrantes do grupo 3ECA :octocat:](#integrantes-do-grupo-3eca-octocat)**
 
 ## Global Solution :bookmark_tabs:
@@ -20,11 +19,9 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
 ## Sobre :book:
 <p align="justify">
     O projeto consiste em criar um site para divulgação do serviço de entrega de drone, e um aplicativo para a simulação do funcionamento desse serviço.
+    Este repositório é apenas para o Website.
 </p>
 <p align="center">
-    <a href="https://reactnative.dev" target="_blank">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-    </a>
     <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     </a>
@@ -33,9 +30,6 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
     </a>
     <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
-    </a>
-    <a href="https://expo.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" alt="Expo">
     </a>
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
@@ -48,14 +42,9 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
 ## Progresso Site :arrow_up:
 - [x] Home Page
 - [x] Pricing Cards
-- [ ] About Page
-- [ ] Services Page
-
-## Progresso App :arrow_up:
-- [ ] Home Screen
-- [ ] Navigation
-- [ ] Services Page
-- [ ] Order Status
+- [x] About Page
+- [x] Services Page
+- [x] Pop Up Modal
 
 ## Integrantes do grupo 3ECA :octocat:
 - Luigi Di Benedetto Maximo Torres - 86335
@@ -64,7 +53,7 @@ Entregável da Global Solution de *Advanced Programming & Mobile Dev*, professor
 
 <p align="center">
     <a href="./LICENSE" target="_blank">
-        <img src="https://img.shields.io/github/license/lcesadm/inh-gpsar-web?style=for-the-badge" alt="MIT LICENSE">
+        <img src="https://img.shields.io/github/license/Lbenedettomt/inh-gpsar-web?style=for-the-badge" alt="MIT LICENSE">
     </a>
 </p>
 
