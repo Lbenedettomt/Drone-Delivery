@@ -1,7 +1,7 @@
 <h1 align="center">Drone Delivery Project</h1>
 <p align="center">
     <img src="https://www.yankodesign.com/images/design_news/2018/06/draft/space_creator_2.jpg" alt="logo" width="500"><br>
-    <img src="https://img.shields.io/badge/status-trabalhando-yellow?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/status-concluido-greens?style=for-the-badge" alt="Status">
 </p>
 
 ### Tópicos :large_blue_diamond:
